@@ -5,8 +5,8 @@ To conduct load test on separately excited generators and to obtain the characte
 Apparatus Required:
 Sl .no apparatus range type quantity
 1 Volt meter (0-300)V MC# Load-test-on-D.C-Shunt-Generator
-### Name:mithilesh SG
-### Reg no:212223080029
+### Name:ROHIT R
+### Reg no:212223080045
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
